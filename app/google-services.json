@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "263864036845",
+    "firebase_url": "https://events-fc718.firebaseio.com",
+    "project_id": "events-fc718",
+    "storage_bucket": "events-fc718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263864036845:android:548cbd3b0aef6794",
+        "android_client_info": {
+          "package_name": "com.it.mougang.gasmyr.events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263864036845-7jogpejoihq01kef76ill2srmchkppdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIyb3Rj0EeefXIJmRNK9ecr1ZekgTPb_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
